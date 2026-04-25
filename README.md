@@ -55,18 +55,6 @@ Currently entering my final year of B.Tech (CS) at St. Mary's Integrated Campus,
 
 ---
 
-## 🗣️ Languages & Proficiency
-
-| Language | Proficiency | Level |
-|---|---|---|
-| JavaScript | ████████░░ | Moderate |
-| Python | ███████░░░ | Moderate |
-| SQL | ████░░░░░░ | Basics |
-| Java | ███░░░░░░░ | Basics |
-| C | ███░░░░░░░ | Basics |
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend**
