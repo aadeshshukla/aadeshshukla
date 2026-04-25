@@ -8,7 +8,7 @@ I build real-world web applications that integrate LLMs into usable products —
 Currently entering my final year of B.Tech (CS) at St. Mary's Integrated Campus, Hyderabad.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aadeshportfolio.vercel.app-black?style=flat-square&logo=vercel)](https://aadeshportfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/aadeshshukla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/aadesh-shukla-5462772a5)
 [![Email](https://img.shields.io/badge/Email-aadeshshukla470@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:aadeshshukla470@gmail.com)
 
 🟢 **Open to internships & part-time remote roles**
@@ -55,6 +55,18 @@ Currently entering my final year of B.Tech (CS) at St. Mary's Integrated Campus,
 
 ---
 
+## 🗣️ Languages & Proficiency
+
+| Language | Proficiency | Level |
+|---|---|---|
+| JavaScript | ████████░░ | Moderate |
+| Python | ███████░░░ | Moderate |
+| SQL | ████░░░░░░ | Basics |
+| Java | ███░░░░░░░ | Basics |
+| C | ███░░░░░░░ | Basics |
+
+---
+
 ## 🛠️ Tech Stack
 
 **Frontend**
@@ -85,6 +97,18 @@ Currently entering my final year of B.Tech (CS) at St. Mary's Integrated Campus,
 | Claude Code In Action | Anthropic |
 | JavaScript Skill Certificate | TestDome |
 | Python Skill Certificate | TestDome |
+
+---
+
+## 🗣️ Languages & Fluency
+
+| Language | Proficiency | Level |
+|---|---|---|
+| JavaScript | ████████░░ | Moderate |
+| Python | ████████░░ | Moderate |
+| SQL | █████░░░░░ | Basic |
+| Java | ████░░░░░░ | Basic |
+| C | ████░░░░░░ | Basic |
 
 ---
 
