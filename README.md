@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Aadesh Shukla 👋
+# Hey, I'm Aadesh Shukla 
 
 **Full-Stack Developer · AI Integration · MERN Stack**
 
