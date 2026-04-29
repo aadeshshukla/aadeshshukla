@@ -11,7 +11,7 @@ Currently entering my final year of B.Tech (CS) at St. Mary's Integrated Campus,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/aadesh-shukla-5462772a5)
 [![Email](https://img.shields.io/badge/Email-aadeshshukla470@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:aadeshshukla470@gmail.com)
 
-🟢 **Open to internships & part-time remote roles**
+🟢 **Open to internships & part-time roles**
 
 </div>
 
