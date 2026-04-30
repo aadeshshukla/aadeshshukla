@@ -31,6 +31,19 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
 
 ---
 
+### 🎯 [Results-Analytics](https://github.com/aadeshshukla/AI-COLAB/tree/main/results-analytics) — JNTUH Results Analytics Dashboard
+> A React + Vite single-page application (SPA) that lets students fetch their JNTUH academic results using a roll number, and then shows:
+
+- Student profile details
+- Semester-wise subject marks + grades + credits + SGPA
+- An analytics dashboard with charts and summary cards
+- **Stack:** React 18 · 
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://results-analytics.vercel.app/)
+[![Source](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/aadeshshukla/AI-COLAB/tree/main/results-analytics)
+
+---
+
 ### 🔒 [Life Tracker](https://github.com/aadeshshukla/LifeTracker) — Privacy-First AI Diary
 > Zero-server diary app running semantic search entirely in the browser — no data ever leaves the device
 
