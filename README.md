@@ -98,6 +98,7 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
 | Claude Code In Action | Anthropic |
 | JavaScript Skill Certificate | TestDome |
 | Python Skill Certificate | TestDome |
+| Claude Code 101 | Anthropic |
 
 ---
 
