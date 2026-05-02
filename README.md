@@ -4,7 +4,7 @@
 
 **Full-Stack Developer · AI Integration · MERN Stack**
 
-I build real-world web applications that integrate LLMs into usable products — not just demos.
+I build real-world web applications that integrate AI into usable products — not just demos.
 Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus, Hyderabad.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aadeshportfolio.vercel.app-black?style=flat-square&logo=vercel)](https://aadeshportfolio.vercel.app)
