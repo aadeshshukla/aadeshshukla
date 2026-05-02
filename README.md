@@ -102,7 +102,7 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
 
 ---
 
-## 🗣️ Languages & Fluency
+##  Languages & Fluency
 
 | Language | Proficiency | Level |
 |---|---|---|
