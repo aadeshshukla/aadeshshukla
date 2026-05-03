@@ -128,7 +128,7 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
 
 <div align="center">
 
-*Currently improving Pathfinder-AI — adding chat history, better prompt engineering, and a paid tier.*
+*Currently improving Pathfinder-AI —  better prompt engineering, TRACKING .*
 
 **If you find my projects useful, a ⭐ means a lot!**
 
