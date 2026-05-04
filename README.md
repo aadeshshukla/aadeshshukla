@@ -22,7 +22,7 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
 ### 🎯 [Pathfinder-AI](https://github.com/aadeshshukla/pathfinder-ai) — AI Learning Roadmap Generator
 > Full-stack SaaS app that generates personalized learning roadmaps using Groq's LLaMA 3.1 model
 
-- JWT authentication, encrypted passwords, user dashboards, saved roadmaps
+- Authentication, encrypted passwords, user dashboards, saved roadmaps
 - Rate limiting, CORS security, Framer Motion UI
 - **Stack:** React 18 · Node.js · Express · MongoDB · Groq SDK · JWT
 
