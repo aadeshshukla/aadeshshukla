@@ -114,18 +114,6 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Aadesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadeshshukla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadeshshukla&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *Currently improving Pathfinder-AI —  better prompt engineering, TRACKING .*
