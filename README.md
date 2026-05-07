@@ -118,6 +118,6 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
 
 *Currently improving Pathfinder-AI —  better prompt engineering, TRACKING .*
 
-**If you find my projects useful, a ⭐ means a lot!**
+**If you find my projects useful, a STAR⭐ means a lot!**
 
 </div>
