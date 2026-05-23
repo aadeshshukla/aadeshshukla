@@ -36,14 +36,13 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
       <br /><br />
       <strong>Certificate:</strong> <br /><a href="https://verify.skilljar.com/c/4p2tf3psbdx9" target="_blank">View Certificate</a>
     </td>
-    <td align="center" valign="middle" width="33%">
+    <td align="center" valign="top" width="33%">
       <h3>TestDome Python</h3>
-      <br />
       <a href="https://www.testdome.com/certificates/b9f054669f5745dab8981e7dc017301a" target="_blank">
-        <img src="https://img.shields.io/badge/TestDome-Python%20Gold-ffd700?style=for-the-badge&logo=python&logoColor=white&labelColor=23272A" alt="TestDome Python Gold" width="180" />
+        <img src="https://img.shields.io/badge/Aadesh__Shukla-Python%20Gold%20Certificate-e5c158?style=for-the-badge&logo=python&logoColor=white&labelColor=d4af37" alt="TestDome Python Gold Card" width="210" style="max-width:100%;" />
       </a>
-      <br /><br /><br /><br />
-      <strong>Certificate:</strong> <br /><a href="https://www.testdome.com/certificates/b9f054669f5745dab8981e7dc017301a" target="_blank">Verify Gold Stamp</a>
+      <br /><br /><br />
+      <strong>Certificate:</strong> <br /><a href="https://www.testdome.com/certificates/b9f054669f5745dab8981e7dc017301a" target="_blank">Verify Gold Badge</a>
     </td>
   </tr>
 </table>
