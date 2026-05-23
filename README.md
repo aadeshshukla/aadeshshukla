@@ -25,23 +25,24 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
       <a href="https://www.credly.com/badges/39f1010b-56ff-4ff2-bc61-cce28aeb1ea3" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="IBM Digital Badge" width="150" />
       </a>
-      <br /><br />
+      <br /><br /><br />
       <strong>Certificate:</strong> <br /><a href="https://www.credly.com/badges/39f1010b-56ff-4ff2-bc61-cce28aeb1ea3" target="_blank">Verify on Credly</a>
     </td>
     <td align="center" valign="top" width="33%">
       <h3>Claude Code 101</h3>
       <a href="https://verify.skilljar.com/c/4p2tf3psbdx9" target="_blank">
-        <img src="https://cc.sj-cdn.net/certificate/tk9do23ky8ac/certificate-4p2tf3psbdx9-1777022421.jpg?Expires=1779536628&Signature=Ap3U4VnEiIw96Yaysw5VIdAXWKXXAoV4dj2fvDlz3GD6uneFpHms1lVqfGSCLFmGI3H2K86Q1oJrzipvM7lFuX0S07nf8clMCqAwBxnoHz1wu0j-DozvYQot28d0EK1U0JBLm5MlfzMYxpZQOc-OxmyBKGUoHnRbPXQkX7ATLM3azV1jiF2xxj2lJe~18rrzQJBOLPTyYT3fpq9LA6ioqZ6-UHNdyTHxWVhW1XVc-Cbvpgy5vq~bis63~1PfPHbsqrtuXeHpgGjVFs5I8Bvn3eJGH9EmEly~5xa3N4NYQk6gZ7dQYo69VwqwNUpEKZD0NC0N7mGpBepiHvZj0HH0ew__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" alt="Claude Code Certificate" width="200" />
+        <img src="https://cc.sj-cdn.net/certificate/tk9do23ky8ac/certificate-4p2tf3psbdx9-1777022421.jpg?Expires=1779536628&Signature=Ap3U4VnEiIw96Yaysw5VIdAXWKXXAoV4dj2fvDlz3GD6uneFpHms1lVqfGSCLFmGI3H2K86Q1oJrzipvM7lFuX0S07nf8clMCqAwBxnoHz1wu0j-DozvYQot28d0EK1U0JBLm5MlfzMYxpZQOc-OxmyBKGUoHnRbPXQkX7ATLM3azV1jiF2xxj2lJe~18rrzQJBOLPTyYT3fpq9LA6ioqZ6-UHNdyTHxWVhW1XVc-Cbvpgy5vq~bis63~1PfPHbsqrtuXeHpgGjVFs5I8Bvn3eJGH9EmEly~5xa3N4NYQk6gZ7dQYo69VwqwNUpEKZD0NC0N7mGpBepiHvZj0HH0ew__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" alt="Claude Code Certificate" width="190" />
       </a>
       <br /><br />
       <strong>Certificate:</strong> <br /><a href="https://verify.skilljar.com/c/4p2tf3psbdx9" target="_blank">View Certificate</a>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="middle" width="33%">
       <h3>TestDome Python</h3>
+      <br />
       <a href="https://www.testdome.com/certificates/b9f054669f5745dab8981e7dc017301a" target="_blank">
-        <img src="https://www.testdome.com/content/images/embed/gold-light.png" alt="TestDome Python Gold Certificate" width="130" />
+        <img src="https://img.shields.io/badge/TestDome-Python%20Gold-ffd700?style=for-the-badge&logo=python&logoColor=white&labelColor=23272A" alt="TestDome Python Gold" width="180" />
       </a>
-      <br /><br />
+      <br /><br /><br /><br />
       <strong>Certificate:</strong> <br /><a href="https://www.testdome.com/certificates/b9f054669f5745dab8981e7dc017301a" target="_blank">Verify Gold Stamp</a>
     </td>
   </tr>
