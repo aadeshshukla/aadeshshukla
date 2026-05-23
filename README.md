@@ -16,6 +16,11 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
 </div>
 
 ---
+## 🏆 IBM SkillBuild Achievements
+
+![IBM Digital Badge](https://images.credly.com/size/680x680/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png)  
+**Certificate:** [https://www.credly.com/badges/39f1010b-56ff-4ff2-bc61-cce28aeb1ea3)
+---
 
 ## 🚀 Featured Projects
 
