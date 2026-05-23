@@ -30,8 +30,8 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
     </td>
     <td align="center" valign="top" width="50%">
       <h3>Claude Code 101</h3>
-      <a href="YOUR_CLAUDE_CERTIFICATE_LINK_HERE" target="_blank">
-        <img src="https://cc.sj-cdn.net/certificate/tk9do23ky8ac/certificate-4p2tf3psbdx9-1777022421.jpg?Expires=1779536628&Signature=Ap3U4VnEiIw96Yaysw5VIdAXWKXXAoV4dj2fvDlz3GD6uneFpHms1lVqfGSCLFmGI3H2K86Q1oJrzipvM7lFuX0S07nf8clMCqAwBxnoHz1wu0j-DozvYQot28d0EK1U0JBLm5MlfzMYxpZQOc-OxmyBKGUoHnRbPXQkX7ATLM3azV1jiF2xxj2lJe~18rrzQJBOLPTyYT3fpq9LA6ioqZ6-UHNdyTHxWVhW1XVc-Cbvpgy5vq~bis63~1PfPHbsqrtuXeHpgGjVFs5I8Bvn3eJGH9EmEly~5xa3N4NYQk6gZ7dQYo69VwqwNUpEKZD0NC0N7mGpBepiHvZj0HH0ew__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" alt="Claude Code Badge" height="40" style="margin-top: 60px; margin-bottom: 60px;" />
+      <a href="https://verify.skilljar.com/c/4p2tf3psbdx9" target="_blank">
+        <img src="https://cc.sj-cdn.net/certificate/tk9do23ky8ac/certificate-4p2tf3psbdx9-1777022421.jpg?Expires=1779536628&Signature=Ap3U4VnEiIw96Yaysw5VIdAXWKXXAoV4dj2fvDlz3GD6uneFpHms1lVqfGSCLFmGI3H2K86Q1oJrzipvM7lFuX0S07nf8clMCqAwBxnoHz1wu0j-DozvYQot28d0EK1U0JBLm5MlfzMYxpZQOc-OxmyBKGUoHnRbPXQkX7ATLM3azV1jiF2xxj2lJe~18rrzQJBOLPTyYT3fpq9LA6ioqZ6-UHNdyTHxWVhW1XVc-Cbvpgy5vq~bis63~1PfPHbsqrtuXeHpgGjVFs5I8Bvn3eJGH9EmEly~5xa3N4NYQk6gZ7dQYo69VwqwNUpEKZD0NC0N7mGpBepiHvZj0HH0ew__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" alt="Claude Code Certificate" width="220" />
       </a>
       <br /><br />
       <strong>Certificate:</strong> <a href="https://verify.skilljar.com/c/4p2tf3psbdx9" target="_blank">View Certificate</a>
