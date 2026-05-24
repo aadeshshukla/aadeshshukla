@@ -158,17 +158,13 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aadeshshukla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Aadesh's GitHub Stats" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aadeshshukla&theme=tokyonight" alt="Aadesh's GitHub Stats" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadeshshukla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadeshshukla&theme=tokyonight" alt="Top Languages by Repo" height="170" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=aadeshshukla&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/00C7B7/aadeshshukla" alt="Aadesh's Contribution Graph" width="100%" />
 
 </div>
 ---
