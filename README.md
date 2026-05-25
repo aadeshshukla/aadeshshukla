@@ -63,9 +63,29 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
       <br /><br />
       <strong>Certificate:</strong> <br /><a href="https://verify.skilljar.com/c/iztoy9xo9t8x" target="_blank">View Certificate</a>
     </td>
+    <td align="center" valign="top" width="33%">
+      <h3>JPMorgan — Quant Research</h3>
+      <a href="https://www.theforage.com/virtual-internships/prototype/x9HF3iLDGwa6gitRW?ref=69fb19ca639f3f3df4aee904" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/J_P_Morgan_Logo_2008_1.svg/320px-J_P_Morgan_Logo_2008_1.svg.png" alt="JPMorgan Quant Research" width="160" />
+      </a>
+      <br /><br />
+      <strong>Forage · May 2026</strong><br />
+      <a href="https://www.theforage.com/virtual-internships/prototype/x9HF3iLDGwa6gitRW?ref=69fb19ca639f3f3df4aee904" target="_blank">Verify Certificate</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h3>Skyscanner — Front-End Eng</h3>
+      <a href="https://www.theforage.com/virtual-internships/prototype/s9yrpXYibz6fQhwg3?ref=69fb19ca639f3f3df4aee904" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Skyscanner_Logo_LockupHorizontal_SkyBlue_RGB.svg/320px-Skyscanner_Logo_LockupHorizontal_SkyBlue_RGB.svg.png" alt="Skyscanner Front-End" width="160" />
+      </a>
+      <br /><br />
+      <strong>Forage · May 2026</strong><br />
+      <a href="https://www.theforage.com/virtual-internships/prototype/s9yrpXYibz6fQhwg3?ref=69fb19ca639f3f3df4aee904" target="_blank">Verify Certificate</a>
+    </td>
   </tr>
 </table>
-
 ---
 
 ## 🚀 Featured Projects
