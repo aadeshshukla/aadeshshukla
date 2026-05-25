@@ -63,27 +63,6 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
       <br /><br />
       <strong>Certificate:</strong> <br /><a href="https://verify.skilljar.com/c/iztoy9xo9t8x" target="_blank">View Certificate</a>
     </td>
-    <td align="center" valign="top" width="25%">
-      <h3>JPMorgan — Quant Research</h3>
-      <a href="https://www.theforage.com/virtual-internships/prototype/x9HF3iLDGwa6gitRW?ref=69fb19ca639f3f3df4aee904" target="_blank">
-        <img src="assets/jpmorgan.png" alt="JPMorgan Quant Research" width="180" />
-      </a>
-      <br /><br />
-      <strong>Forage · May 2026</strong><br />
-      <a href="https://www.theforage.com/virtual-internships/prototype/x9HF3iLDGwa6gitRW?ref=69fb19ca639f3f3df4aee904" target="_blank">Verify Certificate</a>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <h3>Skyscanner — Front-End Eng</h3>
-      <a href="https://www.theforage.com/virtual-internships/prototype/s9yrpXYibz6fQhwg3?ref=69fb19ca639f3f3df4aee904" target="_blank">
-        <img src="assets/skyscanner.png" alt="Skyscanner Front-End" width="180" />
-      </a>
-      <br /><br />
-      <strong>Forage · May 2026</strong><br />
-      <a href="https://www.theforage.com/virtual-internships/prototype/s9yrpXYibz6fQhwg3?ref=69fb19ca639f3f3df4aee904" target="_blank">Verify Certificate</a>
-    </td>
-    <td align="center" valign="top" width="25%">
-      &nbsp;
-    </td>
   </tr>
 </table>
 ---
