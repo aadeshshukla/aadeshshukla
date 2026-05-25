@@ -20,7 +20,7 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
 
 <table>
   <tr>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="25%">
       <h3>IBM SkillsBuild</h3>
       <a href="https://www.credly.com/badges/39f1010b-56ff-4ff2-bc61-cce28aeb1ea3" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="IBM Digital Badge" width="160" />
@@ -28,7 +28,7 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
       <br /><br />
       <strong>Certificate:</strong> <br /><a href="https://www.credly.com/badges/39f1010b-56ff-4ff2-bc61-cce28aeb1ea3" target="_blank">Verify on Credly</a>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="25%">
       <h3>Claude Code 101</h3>
       <a href="https://verify.skilljar.com/c/4p2tf3psbdx9" target="_blank">
         <img src="https://cc.sj-cdn.net/certificate/tk9do23ky8ac/certificate-4p2tf3psbdx9-1777022421.jpg?Expires=1779536628&Signature=Ap3U4VnEiIw96Yaysw5VIdAXWKXXAoV4dj2fvDlz3GD6uneFpHms1lVqfGSCLFmGI3H2K86Q1oJrzipvM7lFuX0S07nf8clMCqAwBxnoHz1wu0j-DozvYQot28d0EK1U0JBLm5MlfzMYxpZQOc-OxmyBKGUoHnRbPXQkX7ATLM3azV1jiF2xxj2lJe~18rrzQJBOLPTyYT3fpq9LA6ioqZ6-UHNdyTHxWVhW1XVc-Cbvpgy5vq~bis63~1PfPHbsqrtuXeHpgGjVFs5I8Bvn3eJGH9EmEly~5xa3N4NYQk6gZ7dQYo69VwqwNUpEKZD0NC0N7mGpBepiHvZj0HH0ew__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" alt="Claude Code Certificate" width="200" />
@@ -36,26 +36,26 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
       <br /><br />
       <strong>Certificate:</strong> <br /><a href="https://verify.skilljar.com/c/4p2tf3psbdx9" target="_blank">View Certificate</a>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="25%">
       <h3>TestDome Python</h3>
       <a href="https://www.testdome.com/certificates/b9f054669f5745dab8981e7dc017301a" target="_blank">
-        <img src="/assets/testdome.png" alt="TestDome Python Gold Card" width="180" />
+        <img src="assets/testdome.png" alt="TestDome Python Gold Card" width="180" />
       </a>
       <br /><br />
       <strong>Certificate:</strong> <br /><a href="https://www.testdome.com/certificates/b9f054669f5745dab8981e7dc017301a" target="_blank">Verify Gold Badge</a>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="25%">
       <h3>TestDome JavaScript</h3>
       <a href="https://www.testdome.com/certificates/64bbf6399e1e4a1f8599e1e3f2a434f0" target="_blank">
-        <img src="/assets/testdome-js.png" alt="TestDome JavaScript Gold Card" width="180" />
+        <img src="assets/testdome-js.png" alt="TestDome JavaScript Gold Card" width="180" />
       </a>
       <br /><br />
       <strong>Certificate:</strong> <br /><a href="https://www.testdome.com/certificates/64bbf6399e1e4a1f8599e1e3f2a434f0" target="_blank">Verify Gold Badge</a>
     </td>
-    <td align="center" valign="top" width="33%">
+  </tr>
+
+  <tr>
+    <td align="center" valign="top" width="25%">
       <h3>Claude Code in Action</h3>
       <a href="https://verify.skilljar.com/c/iztoy9xo9t8x" target="_blank">
         <img src="https://cc.sj-cdn.net/certificate/3n2veylcj0hl/certificate-iztoy9xo9t8x-1770402240.jpg?Expires=1779539312&Signature=bVkrGJZdZVlrJ9AkcyCYLHv47syXraWb71Ns-HjKjPSkYAhAWxS5foRkTtMWTb2ZEYKMSj2oCmfkxiI0PoFmqtkXvbIzSUFO3MpSeFqtjmcs8zhKLrrjGWRSu8A9rpdXb26ixgs952lt9kyzZvopWF3V5SVFVWKSrf5q9JUTI0-SfM0r-ikLTUkMU6L0sAD3h9SSi~ue61y5HcQoAn2mj14qy5gUS8xoMtFi~5v4Zp2nntA~QAM38VCeDlzYARnuKDncOaPZPn683~oKrR3gRz~Shee5Ukiq6tGZ~M3AvAOdfzFgzu5QWCSirZOMuNjZu-nyKwKT1nqw0eyckVkTlg__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" alt="Claude Code Certificate" width="200" />
@@ -63,26 +63,26 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
       <br /><br />
       <strong>Certificate:</strong> <br /><a href="https://verify.skilljar.com/c/iztoy9xo9t8x" target="_blank">View Certificate</a>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="25%">
       <h3>JPMorgan — Quant Research</h3>
       <a href="https://www.theforage.com/virtual-internships/prototype/x9HF3iLDGwa6gitRW?ref=69fb19ca639f3f3df4aee904" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/J_P_Morgan_Logo_2008_1.svg/320px-J_P_Morgan_Logo_2008_1.svg.png" alt="JPMorgan Quant Research" width="160" />
+        <img src="assets/jpmorgan.png" alt="JPMorgan Quant Research" width="180" />
       </a>
       <br /><br />
       <strong>Forage · May 2026</strong><br />
       <a href="https://www.theforage.com/virtual-internships/prototype/x9HF3iLDGwa6gitRW?ref=69fb19ca639f3f3df4aee904" target="_blank">Verify Certificate</a>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="25%">
       <h3>Skyscanner — Front-End Eng</h3>
       <a href="https://www.theforage.com/virtual-internships/prototype/s9yrpXYibz6fQhwg3?ref=69fb19ca639f3f3df4aee904" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Skyscanner_Logo_LockupHorizontal_SkyBlue_RGB.svg/320px-Skyscanner_Logo_LockupHorizontal_SkyBlue_RGB.svg.png" alt="Skyscanner Front-End" width="160" />
+        <img src="assets/skyscanner.png" alt="Skyscanner Front-End" width="180" />
       </a>
       <br /><br />
       <strong>Forage · May 2026</strong><br />
       <a href="https://www.theforage.com/virtual-internships/prototype/s9yrpXYibz6fQhwg3?ref=69fb19ca639f3f3df4aee904" target="_blank">Verify Certificate</a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      &nbsp;
     </td>
   </tr>
 </table>
