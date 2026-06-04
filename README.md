@@ -58,7 +58,7 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
     <td align="center" valign="top" width="25%">
       <h3>Claude Code in Action</h3>
       <a href="https://verify.skilljar.com/c/iztoy9xo9t8x" target="_blank">
-        <img src="https://cc.sj-cdn.net/certificate/3n2veylcj0hl/certificate-iztoy9xo9t8x-1770402240.jpg?Expires=1779539312&Signature=bVkrGJZdZVlrJ9AkcyCYLHv47syXraWb71Ns-HjKjPSkYAhAWxS5foRkTtMWTb2ZEYKMSj2oCmfkxiI0PoFmqtkXvbIzSUFO3MpSeFqtjmcs8zhKLrrjGWRSu8A9rpdXb26ixgs952lt9kyzZvopWF3V5SVFVWKSrf5q9JUTI0-SfM0r-ikLTUkMU6L0sAD3h9SSi~ue61y5HcQoAn2mj14qy5gUS8xoMtFi~5v4Zp2nntA~QAM38VCeDlzYARnuKDncOaPZPn683~oKrR3gRz~Shee5Ukiq6tGZ~M3AvAOdfzFgzu5QWCSirZOMuNjZu-nyKwKT1nqw0eyckVkTlg__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" alt="Claude Code Certificate" width="200" />
+        <img src="https://cc.sj-cdn.net/certificate/3n2veylcj0hl/certificate-iztoy9xo9t8x-1770402240.jpg?Expires=1780571156&Signature=jypRHhxALRkXJDwIjAbcCdUDXsbNtpfGKxTUMbxvsL0uU5S6E~4vTwWjlcV-MrEyxCpIi58zcdpnelhpBusGkL8kKEy-gebOmnJ8SUM8Jv8GTMK5GLkOEbVZJCp8E2l-AnLaKQ-If637UDtj-Zfz4hNDqO5ny06gVJ8pSrzkrbR8-c3AS4B4QWDonSx2IJdnEWQrtZNgMHGj9Q6FHVunET85zd7ULZM4xsa3f7fjv1x2ZNF6f0Zol36TLKMh2czD9pD8xYhEueOUma18Y5Tsj5WTPDq6CKDsOjzknKS3ezcSp-VlKjmpMK-A3bPl7A4QxKKaMEZ9fO7NJ-UR6YLxeg__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" alt="Claude Code Certificate" width="200" />
       </a>
       <br /><br />
       <strong>Certificate:</strong> <br /><a href="https://verify.skilljar.com/c/iztoy9xo9t8x" target="_blank">View Certificate</a>
