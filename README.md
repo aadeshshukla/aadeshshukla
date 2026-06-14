@@ -64,7 +64,7 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
       <strong>Certificate:</strong> <br /><a href="https://verify.skilljar.com/c/iztoy9xo9t8x" target="_blank">View Certificate</a>
     </td>
     <td align="center" valign="top" width="25%">
-      <h3>Qunatitative Research</h3>
+      <h3>Quantitative Research</h3>
       <a href="https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_69fb19ca639f3f3df4aee904_1778653707542_completion_certificate.pdf" target="_blank">
         <img src="assets/jpmorgan.png" alt="J.P. Morgan Certificate" width="200" />
       </a>
