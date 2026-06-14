@@ -63,6 +63,22 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
       <br /><br />
       <strong>Certificate:</strong> <br /><a href="https://verify.skilljar.com/c/iztoy9xo9t8x" target="_blank">View Certificate</a>
     </td>
+    <td align="center" valign="top" width="25%">
+      <h3>J.P. Morgan</h3>
+      <a href="https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_69fb19ca639f3f3df4aee904_1778653707542_completion_certificate.pdf" target="_blank">
+        <img src="assets/jpmorgan.png" alt="J.P. Morgan Certificate" width="200" />
+      </a>
+      <br /><br />
+      <strong>Certificate:</strong> <br /><a href="#" target="_blank">View Certificate</a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <h3>Skyscanner</h3>
+      <a href="https://www.theforage.com/completion-certificates/skoQmxqhtgWmKv2pm/km4rw7dihDr3etqom_skoQmxqhtgWmKv2pm_69fb19ca639f3f3df4aee904_1778068553253_completion_certificate.pdf" target="_blank">
+        <img src="assets/skyscanner.png" alt="Skyscanner Certificate" width="200" />
+      </a>
+      <br /><br />
+      <strong>Certificate:</strong> <br /><a href="#" target="_blank">View Certificate</a>
+    </td>
   </tr>
 </table>
 ---
