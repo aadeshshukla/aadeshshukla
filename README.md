@@ -31,7 +31,7 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
     <td align="center" valign="top" width="25%">
       <h3>Claude Code 101</h3>
       <a href="https://verify.skilljar.com/c/4p2tf3psbdx9" target="_blank">
-        <img src="https://cc.sj-cdn.net/certificate/tk9do23ky8ac/certificate-4p2tf3psbdx9-1777022421.jpg?Expires=1780571024&Signature=SZ8U4S0bA4i5B4ZcGONWrGVk6tV6jscg9wpPAb9E2d0AucUNiANJKckHIBCmO8DYXEyvknhJGFGsIjAyVFpXvvRA6ja5pvZIyTNPoe4BcoVQ7ZKMmY2GKznCOqpxbXlTP~314irotslndFrngpGnwiRL7-shQku8I-MO2yqSEDrtQ9HltvaSdniMKFPl1Ll~f-ecIIv~N9XNX1eM6BjPdaNuxH15IsR1gHHPlLLFv04NPvattgz7Hy7a8CvlSdKr-9P0ZsyA2nn3b3PWU5WKXsbhVnoBWdZIhF7NduH8BknSrG-AQWxooXqnOZ0PbkepOr7wjO-BYfDW1OEvcTR8YQ__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" alt="Claude Code Certificate" width="200" />
+        <img src="https://cc.sj-cdn.net/certificate/tk9do23ky8ac/certificate-4p2tf3psbdx9-1777022421.jpg?Expires=1782909419&Signature=qvFrmJWxgrl3mZTue9k3cdY-XLZ-MwMCA1LVV8itCwp7Ns0DsFaG6ybPn1PQplAAggK~flLhURJm2~hR7yoT8Jq4tOJiYJZK0HyYZH2KTMoz1s196QR98g3ODuHiBy0AtvRTNDp6FShzuSUMQSiRZCfTtRowLR3FU3pL9XhkknbMQr54VVTqMl3kXdDpX0Ru4yWg7QiQyFoZcwOVAm9RRdnN~uRWyyrYyPCM8SkKxrHl2OJh2B~UMUX5KxqNAfVrodqqVEX21-~LTfteQ91yZPPYWg4zQpSUY8X1YtIncwBJKRgfHdY6m3KftDBzwonVWui-4c2OFtWUpQpnaP--4w__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" alt="Claude Code Certificate" width="200" />
       </a>
       <br /><br />
       <strong>Certificate:</strong> <br /><a href="https://verify.skilljar.com/c/4p2tf3psbdx9" target="_blank">View Certificate</a>
@@ -58,7 +58,7 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
     <td align="center" valign="top" width="25%">
       <h3>Claude Code in Action</h3>
       <a href="https://verify.skilljar.com/c/iztoy9xo9t8x" target="_blank">
-        <img src="https://cc.sj-cdn.net/certificate/3n2veylcj0hl/certificate-iztoy9xo9t8x-1770402240.jpg?Expires=1780571156&Signature=jypRHhxALRkXJDwIjAbcCdUDXsbNtpfGKxTUMbxvsL0uU5S6E~4vTwWjlcV-MrEyxCpIi58zcdpnelhpBusGkL8kKEy-gebOmnJ8SUM8Jv8GTMK5GLkOEbVZJCp8E2l-AnLaKQ-If637UDtj-Zfz4hNDqO5ny06gVJ8pSrzkrbR8-c3AS4B4QWDonSx2IJdnEWQrtZNgMHGj9Q6FHVunET85zd7ULZM4xsa3f7fjv1x2ZNF6f0Zol36TLKMh2czD9pD8xYhEueOUma18Y5Tsj5WTPDq6CKDsOjzknKS3ezcSp-VlKjmpMK-A3bPl7A4QxKKaMEZ9fO7NJ-UR6YLxeg__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" alt="Claude Code Certificate" width="200" />
+        <img src="https://cc.sj-cdn.net/certificate/3n2veylcj0hl/certificate-iztoy9xo9t8x-1770402240.jpg?Expires=1782909487&Signature=mphf2PEsBgjTqlvc9HgR7VHNfkB0RYu~tlzhEqYClNa5945gOlSnXQCjBm4eoA23QZVlSFD4lHGHt41pIL~EHgVPy5dcgB94Pu5IyaXaEFQFZy7JnIR8MQkhODJ4t-U9QZSrqT7iLtd5G1Bp3p4Wt8gpUL0adjahZqHElbXRl-SxHSKXwZqBuLpFKuBMVvA-3m~wWdT~xKNpb8NvncKGXh6gj~q7zQ7kSH~cNgexKL~T2u1Qg1Tn6nmXmFWeh94jowkFUvR6yNQYuU3yG7I9oUm~rUlnHsxstRogL9SZW5vwdUeBfs3Q0qAn7waVk9xXy5SQBe1P~wuXWJyV6wxsRA__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" width="200" />
       </a>
       <br /><br />
       <strong>Certificate:</strong> <br /><a href="https://verify.skilljar.com/c/iztoy9xo9t8x" target="_blank">View Certificate</a>
