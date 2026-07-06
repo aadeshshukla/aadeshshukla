@@ -196,6 +196,6 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
 
 *Currently mastering AI Skills —  better prompt engineering, TRACKING .*
 
-**If you find my projects useful, a STAR⭐ means a lot!**
+**If you find my projects useful and intresting, a STAR⭐ means a lot!**
 
 </div>
