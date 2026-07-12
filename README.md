@@ -97,7 +97,7 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
 > Full-stack SaaS app that generates personalized learning roadmaps using Groq's LLaMA 3.1 model
 
 - Authentication, encrypted passwords, user dashboards, saved roadmaps
-- Rate limiting, CORS security, Framer Motion UI
+- Rate limiting,  security, Framer Motion UI
 - **Stack:** React 18 · Node.js · Express · MongoDB · Groq SDK · JWT
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://pathfinder-ai-mu.vercel.app)
