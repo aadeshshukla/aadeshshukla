@@ -181,9 +181,9 @@ Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aadeshshukla&theme=tokyonight" alt="Aadesh's GitHub Stats" height="170" />
+<img src="https://raw.githubusercontent.com/aadeshshukla/aadeshshukla/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Aadesh's GitHub Stats" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aadeshshukla&theme=tokyonight" alt="Top Languages by Repo" height="170" />
+<img src="https://raw.githubusercontent.com/aadeshshukla/aadeshshukla/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" height="170" />
 
 <br/><br/>
 
