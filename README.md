@@ -5,7 +5,7 @@
 **Full-Stack Developer · AI Integration · MERN Stack**
 
 I build real-world web applications that integrate AI into usable products — not just demos.
-Currently entering my final year of B.Tech (CSE) at St. Mary's Integrated Campus, Hyderabad.
+Currently in my final year of B.Tech (CSE) at St. Mary's Integrated Campus, Hyderabad.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aadeshportfolio.vercel.app-black?style=flat-square&logo=vercel)](https://aadeshportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/aadesh-shukla-5462772a5)
