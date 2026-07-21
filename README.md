@@ -179,26 +179,11 @@ Currently in my final year of B.Tech (CSE) at St. Mary's Integrated Campus, Hyde
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <!-- General Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=aadeshshukla&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  
-  <br />
+![Aadesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadeshshukla&show_icons=true&theme=radical)
 
-  <!-- Contribution Streak -->
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadeshshukla&theme=radical" alt="GitHub Streak" />
-  </a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadeshshukla&layout=compact&theme=radical)
 
-  <br />
-
-  <!-- Top Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadeshshukla&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
-  </a>
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=aadeshshukla&theme=radical)
 ---
 
 <div align="center">
