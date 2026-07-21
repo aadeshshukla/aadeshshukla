@@ -180,13 +180,10 @@ Currently in my final year of B.Tech (CSE) at St. Mary's Integrated Campus, Hyde
 ## 📊 GitHub Stats
 
 <div align="center">
-
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=aadeshshukla&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=aadeshshukla&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadeshshukla&layout=compact&theme=tokyonight" alt="Top Languages" height="175" />
 </div>
+
 ---
 
 <div align="center">
