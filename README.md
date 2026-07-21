@@ -178,9 +178,13 @@ Currently in my final year of B.Tech (CSE) at St. Mary's Integrated Campus, Hyde
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
+  
   ![GitHub Streak](https://streak-stats.demolab.com/?user=aadeshshukla&theme=radical)
+  
 </div>
+
 ---
 
 <div align="center">
