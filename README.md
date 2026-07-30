@@ -110,7 +110,7 @@ Currently in my final year of B.Tech (CSE) at St. Mary's Integrated Campus, Hyde
 
 - Student profile details
 - Semester-wise subject marks + grades + credits + SGPA
-- An analytics dashboard with charts and summary cards
+- An analytics dashboard with charts and summary card
 - **Stack:** React 18 · 
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://results-analytics.vercel.app/)
