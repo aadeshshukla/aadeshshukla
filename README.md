@@ -31,7 +31,7 @@ Currently in my final year of B.Tech (CSE) at St. Mary's Integrated Campus, Hyde
     <td align="center" valign="top" width="25%">
       <h3>Claude Code 101</h3>
       <a href="https://verify.skilljar.com/c/4p2tf3psbdx9" target="_blank">
-        <img src="https://cc.sj-cdn.net/certificate/tk9do23ky8ac/certificate-4p2tf3psbdx9-1777022421.jpg?Expires=1785596039&Signature=LEpKSzZSj4b-8054dSi7FBFL~s7rDhGvIDKEEjo2TZtiy2uuLswVD1zHcM5BIp89uI5m64diaD5R8YAtCL58btjQxucxy8XMrrzyc8wOWL-are5rWdbeNSjTerNu19fOOhdtACpDcp6GlEZpP2tT1urm5SmNanAI3Ob5tTCdQdR82JT9UUILUCtnPjuHUQNwnqGZFBR5sf~aQYDsJ3kMFFYHPwcwegkgCvXRJR~~RsxM6tdkpu6AIIqYp-M4s5v7ewoHW7X6H0DSmxdPtulBQLxRmv9KumzTSM~Fej0AieKFGsjAAVjuwam8uO9Mm8rAx5f9CM2dmJkdFjf3lmY4Ew__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" width="200" />
+        <img src="assets/claudecode101.png" width="200" />
       </a>
       <br /><br />
       <strong>Certificate:</strong> <br /><a href="https://verify.skilljar.com/c/4p2tf3psbdx9" target="_blank">View Certificate</a>
@@ -58,7 +58,7 @@ Currently in my final year of B.Tech (CSE) at St. Mary's Integrated Campus, Hyde
     <td align="center" valign="top" width="25%">
       <h3>Claude Code in Action</h3>
       <a href="https://verify.skilljar.com/c/iztoy9xo9t8x" target="_blank">
-        <img src="https://cc.sj-cdn.net/certificate/3n2veylcj0hl/certificate-iztoy9xo9t8x-1770402240.jpg?Expires=1785596200&Signature=tSeGGz80iMappZbn4Zg1oB8O4mE75tumXyrH3Q5zppppoUupg1KnxOX7u5bnYI9-HGPpc1XgLRiMQk8antYb8awKTK~C~IsQ~z19s68WOP1ddfOBGnXx12g3pd3ctS89vTbj0aEjUSSn47v-OiDnTBnEObBn2qJC6-qxpArnAm2KJ2COevxqffT2HhLDSkVyaXEDW6ixe3Y4lE5UoZDNLxUsHNxgqQAif~vkJ-l~OCn23NS4hr6BDhB4DEZIkbZgkRWwnCJ9r-MJEkQ5W1RPOm5omg3X9c5P-spyP6VY4Bgg9VgIpbx9YsJdLAYM0FZ8iIwtHoLfcNnnvM-43h2TVg__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" width="200" />
+        <img src="assets/claudecodeinaction.png" width="200" />
       </a>
       <br /><br />
       <strong>Certificate:</strong> <br /><a href="https://verify.skilljar.com/c/iztoy9xo9t8x" target="_blank">View Certificate</a>
