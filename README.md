@@ -189,7 +189,7 @@ Currently in my final year of B.Tech (CSE) at St. Mary's Integrated Campus, Hyde
 
 <div align="center">
 
-*Currently mastering AI Skills —  better prompt engineering, TRACKING .*
+*Currently mastering System Design and Data structures & Algorithms .*
 
 **If you find my projects useful and intresting, a STAR⭐ means a lot!**
 
