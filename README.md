@@ -118,6 +118,15 @@ Currently in my final year of B.Tech (CSE) at St. Mary's Integrated Campus, Hyde
 
 ---
 
+### 🎯 [Brows-AI](https://github.com/aadeshshukla/browsAI) — VoiceBrowser
+> VoiceBrowser is an experimental Chrome extension that lets you operate webpages with natural voice commands.
+-The aim is hands-free browsing for ordinary multi-step tasks—not just voice search.
+- **Stack:** js · css
+[![Source](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/aadeshshukla/browsAI)
+For Live Demo load the folder in your chrome extensions 
+
+---
+
 ### 🔒 [Life Tracker](https://github.com/aadeshshukla/LifeTracker) — Privacy-First AI Diary
 > Zero-server diary app running semantic search entirely in the browser — no data ever leaves the device
 
